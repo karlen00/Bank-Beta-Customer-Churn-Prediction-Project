@@ -1,7 +1,3 @@
-Sure! Here is the README for the Bank Beta customer churn prediction project:
-
----
-
 # Bank Beta Customer Churn Prediction Project
 
 ## Project Description
